@@ -1,2 +1,4 @@
 # This is the file in the main branch. Now lets check teh merge conflict between the branch main and branch new_branch2
 # This is to merge the file main.txt to main branch from new_branch2. To check the merge conflict
+# This is to merge the file main.txt to main branch from new_branch2. This is to chheck the merge conflict.
+
